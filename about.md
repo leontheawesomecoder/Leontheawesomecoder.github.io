@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: Hi!
 permalink: /about/
 ---
 
 
 
-Hi!
 I don't know why this page exists!
