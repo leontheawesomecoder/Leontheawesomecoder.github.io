@@ -18,6 +18,9 @@ html {
 }
 
 body {
+  background-repeat: no-repeat;
+  background-position:center;
+  background-attachment: fixed;
   background-image: url("http://unknownworlds.com/subnautica/files/2013/12/ControlRoom1.jpg");
   font: 18px/1.4 $helvetica;
 }
