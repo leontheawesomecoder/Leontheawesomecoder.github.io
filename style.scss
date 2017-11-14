@@ -19,8 +19,9 @@ html {
 
 body {
  
-  background-repeat: no-repeat;
-  background-position:center;
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center; 
   background-attachment: fixed;
   background-image: url("https://s-media-cache-ak0.pinimg.com/originals/0c/3e/6a/0c3e6ab79cd61fcc426e507883258ffe.jpg");
   font: 18px/1.4 $helvetica;
