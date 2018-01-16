@@ -12,3 +12,4 @@ When someone says the word "Random", what do you think of? The Lottery? Your Spo
 
 Computers don't do random. It is impossible. It is one of the only things that a computer can't do, but there will always be something preventing it from being random, so what is random? If a computer can’t do it, it needs to be something from humans. A clever solution to this is a microphone in the middle of London that people travelling to work, shops and tourists travel around in, and can’t be coordinated. Thanks, Goodbye.
 
+<iframe height="400px" width="100%" src="https://repl.it/@leonsommer/TheDodgyAsker?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
