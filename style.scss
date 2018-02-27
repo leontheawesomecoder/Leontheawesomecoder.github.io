@@ -27,6 +27,55 @@ body {
   font: 18px/1.4 $helvetica;
 }
 
+@keyframes slideInFromLeftB {
+  0% {
+    transform: translateX(-100%);
+    transform: translateY(100%);
+	  
+  }
+  100% {
+    transform: translateX(0);
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInFromLeftA {
+  0% {
+    transform: translateX(-100%);
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateX(0);
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInFromRightA {
+  0% {
+    transform: translateX(100%);
+    transform: translateY(100%);
+  }
+  100% {
+    transform: translateX(0);
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInFromRightB {
+ 0% {
+    transform: translateX(100%);
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateX(0);
+    transform: translateY(0);
+  }
+}
+
+.hidestuff {
+  display: none
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
