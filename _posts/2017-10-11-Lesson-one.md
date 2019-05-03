@@ -16,3 +16,4 @@ I want to find out how to make a real time coder, so I can see the result as I t
 
 So, in all, I think this lesson was a success!
 
+<iframe src="http://www.staggeringbeauty.com/" style="border: 1px inset #ddd" width="498" height="598"></iframe>
